@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**LucasGSanches/LucasGSanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science undergraduate student** at IFTM (Instituto Federal do Triângulo Mineiro), passionate about game development, web applications, and understanding how software works under the hood.
 
-Here are some ideas to get you started:
+### 🎯 Main Focus
+Right now, I feel most comfortable building **2D/3D indie games with Godot Engine** and developing **web applications with React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Background
+- **B.Sc. in Computer Science** — *In progress* (IFTM)
+- **Technical Degree in Electrotechnics** *(Integrated with High School)* — *Completed*
+- **Technical Degree in Piano** — *Completed*
+
+### 🛠️ Tech Stack & Tools
+- **Game Dev:** Godot Engine (GDScript)
+- **Web & Frontend:** React, JavaScript, HTML5, CSS3
+- **Languages:** C, Python, Java
+- **Databases & Tools:** MySQL, Git, GitHub
